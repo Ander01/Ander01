@@ -10,9 +10,9 @@
 
 ---
 
-Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y ahora mismo estoy metido de lleno en el ciclo de especialización en Inteligencia Artificial y Big Data. Disfruto tanto montando una app Android desde cero como metiéndome en un notebook a sacarle sentido a un dataset, así que me muevo bien entre el desarrollo de aplicaciones y el análisis de datos.
+Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** y ahora mismo estoy metido de lleno en el **ciclo de especialización en Inteligencia Artificial y Big Data**. Disfruto tanto montando una app Android desde cero como metiéndome en un notebook a sacarle sentido a un dataset, así que me muevo bien entre el desarrollo de aplicaciones y el análisis de datos.
 
-Lo que más me llama la atención ahora mismo es la Inteligencia Artificial y el Machine Learning, y ahí es donde quiero centrar los próximos pasos de mi carrera. Estoy buscando una oportunidad que me deje seguir creciendo, tanto en lo técnico como en el tipo de proyectos en los que trabajo.
+Lo que más me llama la atención ahora mismo es la **Inteligencia Artificial** y el **Machine Learning**, y ahí es donde quiero centrar los próximos pasos de mi carrera. Estoy buscando una oportunidad que me deje seguir creciendo, tanto en lo técnico como en el tipo de proyectos en los que trabajo.
 
 ## Stack
 
@@ -38,35 +38,35 @@ Lo que más me llama la atención ahora mismo es la Inteligencia Artificial y el
 
 ## En qué ando metido
 
-- Avanzando en el ciclo de especialización en IA y Big Data: estadística, análisis de datos y los primeros pasos en machine learning.
-- Reforzando Angular y .NET para sentirme igual de cómodo en el backend que en el frontend.
-- Buscando proyectos reales donde aplicar lo que voy aprendiendo sobre IA, más allá del contexto académico.
+- **IA y Big Data:** avanzando en el ciclo de especialización — estadística, análisis de datos y los primeros pasos en machine learning.
+- **Angular y .NET:** reforzando ambos para sentirme igual de cómodo en el backend que en el frontend.
+- **Proyectos reales:** buscando dónde aplicar lo que voy aprendiendo sobre IA, más allá del contexto académico.
 
 ## Proyectos destacados
 
 ### TripMap
-Aplicación Android (TFC — Trabajo de Fin de Ciclo) para la gestión integral de viajes turísticos con itinerarios inteligentes: mapa interactivo con osmdroid, sincronización con base de datos remota en MySQL vía Retrofit, arquitectura MVVM y autenticación segura con jBCrypt. Desarrollada en equipo.
+Aplicación Android (**TFC — Trabajo de Fin de Ciclo**) para la gestión integral de viajes turísticos con itinerarios inteligentes: mapa interactivo con osmdroid, sincronización con base de datos remota en MySQL vía Retrofit, arquitectura MVVM y autenticación segura con jBCrypt. Desarrollada en equipo.
 
 `Java` `Android` `MVVM` `Retrofit` `MySQL` `osmdroid`
 
 [Ver repositorio](https://github.com/Ander01/TripMap)
 
 ### Steam & Twitch Insights
-Proyecto en equipo del ciclo de especialización: análisis de datos de Steam y Twitch (limpieza, exploración y correlación entre ambas fuentes) y una plataforma de visualización con Docker, InfluxDB, Grafana y Node-RED. Contribuí con el notebook de análisis, la validación de los datos y la documentación del proyecto.
+Proyecto en equipo del ciclo de especialización: análisis de datos de **Steam** y **Twitch** (limpieza, exploración y correlación entre ambas fuentes) y una plataforma de visualización con Docker, InfluxDB, Grafana y Node-RED. Contribuí con el notebook de análisis, la validación de los datos y la documentación del proyecto.
 
 `Python` `Pandas` `Jupyter` `Docker` `InfluxDB` `Grafana`
 
 [Ver repositorio](https://github.com/Ander01/Grupo2)
 
 ### Card Tracker
-Aplicación web local-first para gestionar una colección de cartas Pokémon y explorar disposiciones de álbum personalizadas. La colección se guarda en el almacenamiento local del navegador, sin necesidad de cuenta ni servicio remoto.
+Aplicación web **local-first** para gestionar una colección de cartas Pokémon y explorar disposiciones de álbum personalizadas. La colección se guarda en el almacenamiento local del navegador, sin necesidad de cuenta ni servicio remoto.
 
 `React` `TypeScript` `Vite` `Vitest`
 
 [Ver repositorio](https://github.com/Ander01/card-tracker)
 
 ### Mol Insight
-Colaborador en la organización **mol-insight**, donde trabajo en [Mol Insight](https://www.molinsight.app/es), una plataforma de análisis de datos LC-MS y RMN para químicos. *(Repositorios privados de la organización.)*
+Colaborador en la organización **mol-insight**, donde trabajo en [Mol Insight](https://www.molinsight.app/es), una plataforma de análisis de datos **LC-MS** y **RMN** para químicos. *(Repositorios privados de la organización.)*
 
 ## Estadísticas de GitHub
 
@@ -81,7 +81,7 @@ Colaborador en la organización **mol-insight**, donde trabajo en [Mol Insight](
 
 ## Contacto
 
-Estoy abierto a oportunidades que me permitan seguir creciendo como desarrollador, especialmente en proyectos relacionados con IA y Machine Learning. Puedes escribirme por [LinkedIn](https://www.linkedin.com/in/ander-arias-51a49215b/) o por correo a [anderarias01@gmail.com](mailto:anderarias01@gmail.com).
+Estoy abierto a oportunidades que me permitan seguir creciendo como desarrollador, especialmente en proyectos relacionados con **IA** y **Machine Learning**. Puedes escribirme por [LinkedIn](https://www.linkedin.com/in/ander-arias-51a49215b/) o por correo a [anderarias01@gmail.com](mailto:anderarias01@gmail.com).
 
 <div align="center">
 
