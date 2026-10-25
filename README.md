@@ -51,7 +51,7 @@ Aplicación Android (TFC — Trabajo de Fin de Ciclo) para la gestión integral 
 
 [Ver repositorio](https://github.com/Ander01/TripMap)
 
-### Reto 0 — Equipo 2
+### Steam & Twitch Insights
 Proyecto en equipo del ciclo de especialización: análisis de datos de Steam y Twitch (limpieza, exploración y correlación entre ambas fuentes) y una plataforma de visualización con Docker, InfluxDB, Grafana y Node-RED. Contribuí con el notebook de análisis, la validación de los datos y la documentación del proyecto.
 
 `Python` `Pandas` `Jupyter` `Docker` `InfluxDB` `Grafana`
