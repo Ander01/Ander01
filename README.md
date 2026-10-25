@@ -37,11 +37,11 @@
 ## Proyectos destacados
 
 ### TripMap
-Aplicación Android (TFG) para la gestión integral de viajes turísticos con itinerarios inteligentes: mapa interactivo con osmdroid, sincronización con base de datos remota en MySQL vía Retrofit, arquitectura MVVM y autenticación segura con jBCrypt. Desarrollada en equipo.
+Aplicación Android (TFC — Trabajo de Fin de Ciclo) para la gestión integral de viajes turísticos con itinerarios inteligentes: mapa interactivo con osmdroid, sincronización con base de datos remota en MySQL vía Retrofit, arquitectura MVVM y autenticación segura con jBCrypt. Desarrollada en equipo.
 
 `Java` `Android` `MVVM` `Retrofit` `MySQL` `osmdroid`
 
-[Ver repositorio](https://github.com/MarkelNC0908/TripMap)
+[Ver repositorio](https://github.com/Ander01/TripMap)
 
 ### Card Tracker
 Aplicación web local-first para gestionar una colección de cartas Pokémon y explorar disposiciones de álbum personalizadas. La colección se guarda en el almacenamiento local del navegador, sin necesidad de cuenta ni servicio remoto.
@@ -50,8 +50,8 @@ Aplicación web local-first para gestionar una colección de cartas Pokémon y e
 
 [Ver repositorio](https://github.com/Ander01/card-tracker)
 
-### mol-insight
-Colaborador en la organización **mol-insight**, donde trabajo en un pipeline de datos y modelos de machine learning para predecir respuestas celulares. *(Repositorios privados de la organización.)*
+### Mol Insight
+Colaborador en la organización **mol-insight**, donde trabajo en [Mol Insight](https://www.molinsight.app/es), una plataforma de análisis de datos LC-MS y RMN para químicos. *(Repositorios privados de la organización.)*
 
 ## Estadísticas de GitHub
 
