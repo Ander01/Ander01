@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Ander%20Arias&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Ander Arias" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A2980,100:26D0CE&height=220&section=header&text=Ander%20Arias&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Ander Arias" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C9A7&center=true&vCenter=true&width=650&lines=T%C3%A9cnico+Superior+en+DAM;Especializaci%C3%B3n+en+IA+y+Big+Data;Java+%7C+.NET+%7C+Angular+%7C+Python;Construyendo+aplicaciones+de+principio+a+fin" alt="Técnico Superior en DAM, especialización en IA y Big Data" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=26D0CE&center=true&vCenter=true&width=650&lines=DAM+%2B+especializaci%C3%B3n+en+IA+y+Big+Data;Me+apasiona+el+Machine+Learning;Java+%7C+.NET+%7C+Angular+%7C+Python;Siempre+con+ganas+de+aprender+algo+nuevo" alt="DAM, especialización en IA y Big Data, Machine Learning" />
 
 [Balmaseda, España](https://www.google.com/maps/place/Balmaseda) · [LinkedIn](https://www.linkedin.com/in/ander-arias-51a49215b/) · [anderarias01@gmail.com](mailto:anderarias01@gmail.com)
 
@@ -10,9 +10,9 @@
 
 ---
 
-**Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente cursando el **ciclo de especialización en Inteligencia Artificial y Big Data**. Me gusta construir aplicaciones completas, desde la lógica de negocio y el modelo de datos hasta la interfaz de usuario, tanto en entornos web como móviles.
+Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y ahora mismo estoy metido de lleno en el ciclo de especialización en Inteligencia Artificial y Big Data. Disfruto tanto montando una app Android desde cero como metiéndome en un notebook a sacarle sentido a un dataset, así que me muevo bien entre el desarrollo de aplicaciones y el análisis de datos.
 
-Me interesa especialmente el mundo de la **Inteligencia Artificial** y el **Machine Learning**, y estoy buscando una oportunidad profesional que me permita seguir ampliando mis habilidades y mi campo de trabajo.
+Lo que más me llama la atención ahora mismo es la Inteligencia Artificial y el Machine Learning, y ahí es donde quiero centrar los próximos pasos de mi carrera. Estoy buscando una oportunidad que me deje seguir creciendo, tanto en lo técnico como en el tipo de proyectos en los que trabajo.
 
 ## Stack
 
@@ -36,10 +36,11 @@ Me interesa especialmente el mundo de la **Inteligencia Artificial** y el **Mach
 
 </div>
 
-## Aprendiendo ahora
+## En qué ando metido
 
-- **Inteligencia Artificial y Big Data:** ciclo de especialización en curso, con foco en machine learning y procesamiento de datos a gran escala.
-- **Desarrollo web:** profundizando en Angular y .NET para construir aplicaciones full-stack robustas.
+- Avanzando en el ciclo de especialización en IA y Big Data: estadística, análisis de datos y los primeros pasos en machine learning.
+- Reforzando Angular y .NET para sentirme igual de cómodo en el backend que en el frontend.
+- Buscando proyectos reales donde aplicar lo que voy aprendiendo sobre IA, más allá del contexto académico.
 
 ## Proyectos destacados
 
@@ -49,6 +50,13 @@ Aplicación Android (TFC — Trabajo de Fin de Ciclo) para la gestión integral 
 `Java` `Android` `MVVM` `Retrofit` `MySQL` `osmdroid`
 
 [Ver repositorio](https://github.com/Ander01/TripMap)
+
+### Reto 0 — Equipo 2
+Proyecto en equipo del ciclo de especialización: análisis de datos de Steam y Twitch (limpieza, exploración y correlación entre ambas fuentes) y una plataforma de visualización con Docker, InfluxDB, Grafana y Node-RED. Contribuí con el notebook de análisis, la validación de los datos y la documentación del proyecto.
+
+`Python` `Pandas` `Jupyter` `Docker` `InfluxDB` `Grafana`
+
+[Ver repositorio](https://github.com/Ander01/Grupo2)
 
 ### Card Tracker
 Aplicación web local-first para gestionar una colección de cartas Pokémon y explorar disposiciones de álbum personalizadas. La colección se guarda en el almacenamiento local del navegador, sin necesidad de cuenta ni servicio remoto.
@@ -77,6 +85,6 @@ Estoy abierto a oportunidades que me permitan seguir creciendo como desarrollado
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=120&section=footer&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:26D0CE,100:1A2980&height=120&section=footer&animation=fadeIn" width="100%" alt="" />
 
 </div>
