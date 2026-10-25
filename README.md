@@ -36,7 +36,7 @@ Lo que más me llama la atención ahora mismo es la **Inteligencia Artificial** 
 
 </div>
 
-## En qué ando metido
+## Actualmente
 
 - **IA y Big Data:** avanzando en el ciclo de especialización — estadística, análisis de datos y los primeros pasos en machine learning.
 - **Angular y .NET:** reforzando ambos para sentirme igual de cómodo en el backend que en el frontend.
